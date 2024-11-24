@@ -25,10 +25,10 @@ public class MyTests {
         driver.get("https://mind-wend-913065.framer.app/");
     }
 
-//    @AfterClass
-//    private void closeWindow(){
-//        driver.quit();
-//    }
+    @AfterClass
+    private void closeWindow(){
+        driver.quit();
+    }
 
     @Test
 
