@@ -1,0 +1,73 @@
+﻿Does “Sign up” form works correctly(bug)
+
+Given the Framer site is loaded
+When click “Sign up” button
+And type valid email address
+And type valid password
+And click “Sign up” button
+Then I make registration
+
+------------------------------------------------------------------------------------------------------------------------
+
+Does “Discord” redirection works after clicking button(bug)
+
+Given the Framer site is loaded
+When scroll to the bottom of the website
+And click in button
+Then I see the redirection
+
+------------------------------------------------------------------------------------------------------------------------
+
+Does “Youtube” redirection works after clicking button(bug)
+
+Given the Framer site is loaded
+When scroll to the bottom of the website
+And click in button
+Then I see the redirection
+
+------------------------------------------------------------------------------------------------------------------------
+
+Does “Instagram” redirection works after clicking button(bug)
+
+Given the Framer site is loaded
+When scroll to the bottom of the website
+And click in button
+Then I see the redirection
+------------------------------------------------------------------------------------------------------------------------
+Does “Watch video” button plays video(bug)
+
+Given Given the Framer site is loaded
+When click on “Watch video” button
+Then video starts
+
+------------------------------------------------------------------------------------------------------------------------
+
+Does “Try for free” button in “Pricing” page works(bug)
+
+Given Given the Framer site is loaded
+When click on the “Pricing” button
+And click “Try for free” button on Pricing page
+Then I see the free plan
+
+------------------------------------------------------------------------------------------------------------------------
+
+Does “Made it Framer” button redirects to Framer website(passed)
+
+Given Given the Framer site is loaded
+When click “Made in Framer” button located in bottom right edge
+Then I see the Framer website
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Does “Get the app” button in “Text styles, variants and overlays” section downloads application(bug)
+
+Given Given the Framer site is loaded
+And scroll down to “Text styles, variants and overlays” section
+And click the  “Get the app”
+Then application starts downloading
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+ 

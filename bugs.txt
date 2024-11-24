@@ -1,0 +1,128 @@
+﻿Does “Sign up” form works correctly
+
+Severity high
+Preconditions: typed email was not used before
+
+1. load Framer site 
+2. click “Sign up” button
+3. type in email field valid email address
+4. type in password field valid password
+5. click “Sign up” button
+Expected result: user made registration
+
+Actual result: error message shown
+
+https://drive.google.com/file/d/1u2ssiLEz3in8GWq3iP7AK-FS28A6a-UP/view?usp=sharing
+
+------------------------------------------------------------------------------------------------------------------------
+
+Does “Discord” redirection works after clicking button
+
+Severity medium
+Preconditions: user has access to the website
+
+1. load Framer site
+2. scroll to the bottom of the website
+3. click on button
+
+Expected result: user is redirected to Discord
+
+Actual result: nothing happens
+
+https://drive.google.com/file/d/1u2ssiLEz3in8GWq3iP7AK-FS28A6a-UP/view?usp=sharing
+
+-----------------------------------------------------------------------------------------------------------------------
+Does “Youtube” redirection works after clicking button
+
+Severity medium
+Preconditions: user has access to the website
+
+1. load Framer site
+2. scroll to the bottom of the website
+3. click on button
+
+Expected result: user is redirected to Youtube
+
+Actual result: nothing happens
+
+https://drive.google.com/file/d/155BlH17qacN5QPbn2dlFvddZxM40nfiQ/view?usp=sharing
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+Does “Instagram” redirection works after clicking button(bug)
+
+Severity medium
+Preconditions: user has access to the website
+
+1. load Framer site
+2. scroll to the bottom of the website
+3. click on button
+
+Expected result: user is redirected to Instagram
+
+Actual result: nothing happens
+
+https://drive.google.com/file/d/1G7tpY-I9NBUHDdA_ZqFbFhY1szYdszHU/view?usp=sharing
+
+------------------------------------------------------------------------------------------------------------------------
+
+Does “Watch video” button plays video
+
+Severity medium
+Preconditions: user has access to the website
+
+1. load Framer site
+2. click on “Watch video” button
+
+Expected result: video should starts
+
+Actual result: nothing happens
+
+https://drive.google.com/file/d/1ZZEo5uuh9n2NcfiOHeE_bIF5UW5Ora3V/view?usp=sharing
+
+------------------------------------------------------------------------------------------------------------------------
+
+Does “Try for free” button in “Pricing” page works
+
+Severity medium
+Preconditions: user has access to the website
+
+1. load Framer site
+2. click on the “Pricing” button
+3. click “Try for free” button on Pricing page
+ 
+Expected result: user should be subscribed for free plan
+Actual result: nothing happens
+
+https://drive.google.com/file/d/1RZe2AxEos15M_elyLEfh12Sk2aGEuQ6P/view?usp=sharing
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Does “Get the app” button in “Text styles, variants and overlays” section downloads application
+
+Severity medium
+Preconditions: user has access to the website
+
+1. load Framer site
+2. scroll down to “Text styles, variants and overlays” section
+3. click the  “Get the app”
+
+Expected result: The application starts downloading
+
+Actual result: nothing happens
+
+https://drive.google.com/file/d/1EvXtGY-obn5WhaNueVxCsjg8KkN72ojT/view?usp=sharing
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
